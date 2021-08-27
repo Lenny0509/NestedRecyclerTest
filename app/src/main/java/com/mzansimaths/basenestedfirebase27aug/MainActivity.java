@@ -70,6 +70,11 @@ public class MainActivity
                    itemList.add(itm1);
                    itemList.add(itm1);
                    itemList.add(itm1);
+                   itemList.add(itm1);
+                   itemList.add(itm1);
+                   itemList.add(itm1);
+                   itemList.add(itm1);
+                   itemList.add(itm1);
 
                 }
 
